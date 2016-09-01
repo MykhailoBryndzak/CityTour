@@ -4,6 +4,8 @@
 body {
   font-family: 'Source Sans Pro', sans-serif;
 }
+
+
 h1,
 h2,
 h3,
@@ -49,7 +51,7 @@ ul li {
   padding: 5px 15px;
 }
 .menu .navbar-default .navbar-nav > li > a:hover {
-  color: #f48e5c;
+  color: #6fbf39;
 }
 .menu .navbar-nav {
   float: none;
@@ -91,7 +93,7 @@ header .social-info li a {
   border-right: 1px solid #dedede;
 }
 header .social-info li a:hover {
-  color: #f48e5c;
+  color: #fb9b01;
 }
 #banner {
   background-size: cover;
@@ -145,16 +147,16 @@ header .social-info li a:hover {
   border: 1px solid #8883bc;
 }
 #banner .block .download-btn li .btn-andriod {
-  background: #6fbf39;
+  background: #b5de08;
   border: 1px solid transparent;
   -webkit-transition: .2s all;
   -o-transition: .2s all;
   transition: .2s all;
 }
 #banner .block .download-btn li .btn-andriod:hover {
-  color: #6fbf39;
+  color: #b5de08;
   background: #fff;
-  border: 1px solid #6fbf39;
+  border: 1px solid #b5de08;
 }
 #banner .block .download-btn li .btn-windows {
   background: #00afec;
@@ -184,15 +186,15 @@ header .social-info li a:hover {
   color: #fff;
 }
 #service .block:hover h3 {
-  color: #f48e5c;
+  color: #6fbf39;
 }
 #service .block:hover .icon {
   border: 1px solid #FFFFFF;
-  background: #f48e5c;
+  background: #b5de08;
   color: #fff;
-  -webkit-box-shadow: 0 0 0px 2px #f48e5c;
-  -moz-box-shadow: 0 0 0px 2px #f48e5c;
-  box-shadow: 0 0 0px 2px #f48e5c;
+  -webkit-box-shadow: 0 0 0px 2px #b5de08;
+  -moz-box-shadow: 0 0 0px 2px #b5de08;
+  box-shadow: 0 0 0px 2px #b5de08;
 }
 #service .block .icon {
   width: 90px;
@@ -236,11 +238,11 @@ header .social-info li a:hover {
   padding-right: 22px;
 }
 #feature .feature-item .icon i {
-  color: #f48e5c;
+  color: #fb9b01;
   font-size: 30px;
 }
 #feature .feature-item h4 {
-  color: #f48e5c;
+  color: #262b31;
   margin-bottom: 0;
   font-weight: 300;
   margin-bottom: 8px;
